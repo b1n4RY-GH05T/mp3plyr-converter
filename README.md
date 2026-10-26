@@ -10,4 +10,4 @@ _https://github.com/fdd4s/portable_mp3_player_video_converter_tools_
 
 For me, the one that worked was the "shenju18.avi" file. _fdd4s_ has already created a .sh script to convert any video file to this special format, but I decided to make this to make the conversion for people on Windows easier. 
 
-__NOTE__ : You will have to install ffmpeg for the conversion to work. I installed this via winget, so the process for me was relatively easy. Feel free to use ffmpeg too.
+__NOTE__ : You will have to install ffmpeg for the conversion to work. The current full build (9.0.2) is 245MB. I installed this via winget, so the process for me was relatively easy. I have also provided a .bat file to make the installation and copying of the path easier.
