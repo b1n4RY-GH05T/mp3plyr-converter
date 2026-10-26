@@ -26,3 +26,11 @@ _set "FFMPEG_PATH=C:\Users\my_username\AppData\Local\Microsoft\WinGet\Packages\G
 (The path will vary from computer to computer. This is why I made the installer script)
 
 Now save the file with the updated path. And when you want to convert any video file (.webm, .mp4) to a format that the MP3 player can read, simply right click the file, hover over "Open with", click "Choose another app". When the menu pops up, scroll all the way to the bottom, and click on "Choose an app on your PC". When the Explorer window pops up, choose the "avi_converter.bat" file and after confirming it will start to encode that video in the format that is compatible with the mp3 player. 
+
+I also made a file that will take the long .avi file and cut it up into smaller 3 minute clips. I made this because when I was fiddling with the volume while playing a video, I would often exit the video and would have to watch the same parts again to get to the point I was up to. 
+
+The file will make a separate folder with the name of the original .avi file and inside that folder will be the smaller 3 minute parts. 
+
+They will be named "*part_0*", "*part_1*" and so on.
+
+You don't have to use this file for the video to work on the MP3 player; I just made it to make my life easier.
