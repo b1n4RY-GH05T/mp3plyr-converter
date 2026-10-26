@@ -34,3 +34,7 @@ The file will make a separate folder with the name of the original .avi file and
 They will be named "*part_0*", "*part_1*" and so on.
 
 You don't have to use this file for the video to work on the MP3 player; I just made it to make my life easier.
+
+I also added a "demo.mp4" video demonstrating how to install ffmpeg and run the program. Sorry if it is a bit laggy and low quality; I had to record in Windows Sandbox and then compress the video again.
+
+I would really appreciate if you could star this repo; I worked hard on this tool, so a little goes a long way!
