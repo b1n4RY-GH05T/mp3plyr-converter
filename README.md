@@ -14,7 +14,7 @@ __NOTE__ : You will have to install ffmpeg for the conversion to work. The curre
 
 After installing ffmpeg using the file, it will give you the full path of the ffmpeg.exe file. Don't worry if you already have ffmpeg installed; the "installer.bat" file won't reinstall ffmpeg but it will still provide the full path of the current ffmpeg installation to you. 
 
-Now we can workk on actually converting the files. Download the "avi_converter.bat" file. This is the file which will convert the video file the the correct format.
+Now we can work on actually converting the files. Download the "avi_converter.bat" file. This is the file which will convert the video file the the correct format.
 Before we use it though we need to make a few changes inside the file. Open it with a text editor of your choice and change the line where it says :
 
 _set "FFMPEG_PATH=path_here"_
